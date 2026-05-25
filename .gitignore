@@ -1,0 +1,7 @@
+node_modules
+dist
+.env
+.env.local
+.claude/
+arquilogic-logo.png
+logo-n3labs.jpg
